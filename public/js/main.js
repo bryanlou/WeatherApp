@@ -34,7 +34,7 @@ function searchWeather() {
 function getWeather( searchQuery ) {
   let url = 'http://api.openweathermap.org/data/2.5/weather?';
   let params = {
-    APPID: apiKey,
+    APPID: 'ab527d99bd65ac5de1470a58428c6f13',
     units: 'imperial'
   };
   if (searchQuery) {
@@ -87,7 +87,7 @@ function searchForecast() {
 function getForecast( searchQuery ) {
   let url = 'http://api.openweathermap.org/data/2.5/forecast/daily?';
   let params = {
-    APPID: apiKey,
+    APPID: 'ab527d99bd65ac5de1470a58428c6f13',
     units: 'imperial'
   };
   if (searchQuery) {
