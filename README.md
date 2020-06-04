@@ -1,6 +1,8 @@
-# DemoWebApp
+# Basic Weather App
 
-Check it out at: https://ancient-forest-87393.herokuapp.com/
+Simple weather web app using OpenWeatherMap API and Google Maps API
+
+Check it out at: http://safe-brushlands-98089.herokuapp.com/
 
 Before starting:
 - [ ] Create Heroku account (primary language = node) - https://signup.heroku.com/

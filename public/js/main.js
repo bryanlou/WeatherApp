@@ -99,7 +99,7 @@ function getForecast( searchQuery ) {
   $.ajax(url + $.param( params ), {
     success: ( data ) => onSuccess( data ),
     error: function (error) {
-      $('.error-message').text('An error occurred!');
+      $('.error-message').text('');
     }
   });
 
