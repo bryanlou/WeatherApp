@@ -2,7 +2,7 @@
 
 Simple weather web app using OpenWeatherMap API and Google Maps API
 
-Check it out at: http://safe-brushlands-98089.herokuapp.com/
+Check it out at: http://weatherv1.herokuapp.com/
 
 To set up and run on local:
 
